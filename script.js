@@ -9,35 +9,90 @@ const paper = document.querySelector(".paper");
 
 let music; // 🎵 variable global
 
-const letter = `Marjorie ❤️
-
-A veces pienso en cómo comenzó todo…
-y todavía me parece increíble que haya empezado como un simple juego mobile legends.
+const letter = `A veces pienso en cómo comenzó todo…
+y todavía me parece increíble que haya empezado como un simple juego: Mobile Legends: Bang Bang.
 
 Un juego que parecía pasajero y muy cansado…
 pero terminó convirtiéndose en la historia más hermosa de mi vida.
 
+Quién diría que entre partidas, risas, derrotas y victorias,
+iba a aparecer la persona que cambiaría mi mundo por completo.
+Lo que empezó con conversaciones pequeñas,
+con mensajes simples,
+con momentos que parecían normales…
+se fue transformando en algo que jamás imaginé sentir.
+
 Recuerdo nuestra primera salida…
 cuando te abracé y sentí que algo dentro de mí encontró su lugar.
+Como si mi corazón supiera que ahí era,
+que ese era su hogar.
 
 Nuestro primer beso…
-ese instante donde el mundo se detuvo por unos segundos , esos segundos solo senti que te amaba mucho
-mas que ayer y mucho mas mañana.
+ese instante donde el mundo se detuvo por unos segundos.
+Y en esos segundos solo sentí que te amaba mucho…
+más que ayer y mucho más mañana.
+Fue un momento tan pequeño en el tiempo,
+pero tan eterno en mi memoria.
+
+Recuerdo también nuestras risas sin razón,
+las llamadas largas,
+los mensajes que empezaban con un “hola”
+y terminaban siendo conversaciones infinitas.
+Cada detalle contigo se volvió especial,
+cada recuerdo contigo tiene un brillo distinto.
 
 Hemos vivido momentos hermosos,
 momentos difíciles,
-pero incluso cuando discutimos quiero que sepas que estoy aqui para ti
-aunque ahoprita no me hables quiero que sepas que te amo en verdad
-por que tu fuiste quien llego a mi vida a cambiarla y darle la felicidad y amor que 
-necesitaba, muahhh gracias por ser mi luz y amor puro y sincero,
-mi corazón sigue eligiéndote.
+momentos donde todo parecía perfecto
+y otros donde tuvimos que aprender a entendernos mejor.
+Pero incluso cuando discutimos,
+incluso cuando el orgullo quiere hablar más fuerte,
+quiero que sepas que estoy aquí para ti.
+
+Aunque ahorita no me hables,
+aunque haya silencio,
+quiero que sepas que te amo en verdad.
+Mi amor por ti no desaparece por una discusión,
+no se apaga por un mal momento.
+Al contrario, me recuerda cuánto me importas.
+
+Porque tú fuiste quien llegó a mi vida a cambiarla,
+a darle la felicidad y el amor que necesitaba.
+Llegaste cuando tal vez no sabía cuánto necesitaba amar así.
+Y me enseñaste que el amor no es perfecto,
+pero cuando es real, se siente diferente.
+
+Gracias por ser mi luz,
+por ser mi paz en días difíciles,
+por abrazarme cuando más lo necesitaba,
+por creer en mí incluso cuando yo dudaba.
+
+Contigo aprendí que el amor no es solo palabras bonitas,
+es elegir quedarse,
+es elegir intentarlo,
+es elegir a la misma persona una y otra vez.
 
 Hoy cumplimos 1 año y 11 meses.
 No es solo tiempo…
 es amor real.
+Es crecimiento.
+Es historia.
+Es promesas silenciosas.
+Es un “aquí sigo” incluso cuando las cosas no son fáciles.
+
+Y si pudiera volver atrás,
+volvería a jugar ese día,
+volvería a enviarte ese mensaje,
+volvería a elegirte.
+
+Porque mi corazón sigue eligiéndote.
+Hoy.
+Mañana.
+Y siempre.
 
 Siempre contigo,
-Kevin ❤️ para mi Marjorie`;
+Kevin ❤️
+para mi Marjorie 💫`;
 
 let index = 0;
 
